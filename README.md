@@ -1,3 +1,4 @@
+![Screenshot from 2023-06-21 01-38-39](https://github.com/Usmaelabdureman/amplify-react-graphql/assets/95717548/438e7c97-0249-4891-82be-8ff163f5ca45)
 ![Screenshot from 2023-06-21 01-35-35](https://github.com/Usmaelabdureman/amplify-react-graphql/assets/95717548/867cd82c-3b90-4dd7-ab40-3741c7ecd5cc)
 # Getting Started with Create React App
 
